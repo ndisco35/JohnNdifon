@@ -1,0 +1,43 @@
+/*=========================================
+        GOOGLE FONTS
+=========================================*/
+
+:root{
+
+/* COLORS */
+
+--primary:#3b82f6;
+
+--secondary:#050816;;
+
+--bg:#050816;
+
+--surface:#0f172a;
+
+--surface-2:#111c35;
+
+--text:#ffffff;
+
+--text-light:black;
+
+--border:rgba(255,255,255,.08);
+
+--glass:rgba(255,255,255,.05);
+
+--shadow:0 15px 40px rgba(0,0,0,.35);
+
+--radius:18px;
+
+
+/* FONTS */
+
+--heading:'Poppins',sans-serif;
+
+--body:'Inter',sans-serif;
+
+
+/* TRANSITIONS */
+
+--transition:.35s ease;
+
+}
